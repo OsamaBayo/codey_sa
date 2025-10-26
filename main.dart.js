@@ -18935,7 +18935,7 @@ _.a=d},
 M4:function M4(a){this.a=a},
 a42:function a42(a,b){this.a=a
 this.b=b},
-xj(){return new A.M5(A.mv("assets/codey_logo.png",null,200,200),A.mv("assets/small_logo.png",B.bQ,30,70),A.mv("arabic_logo.png",B.bQ,30,70),A.mv("assets/insta_logo.png",B.bQ,30,30),A.mv("tik_logo.png",B.bQ,30,30),A.mv("x_logo.png",B.bQ,30,30))},
+xj(){return new A.M5(A.mv("assets/codey_logo.png",null,200,200),A.mv("assets/small_logo.png",B.bQ,30,70),A.mv("assets/arabic_logo.png",B.bQ,30,70),A.mv("assets/insta_logo.png",B.bQ,30,30),A.mv("assets/tik_logo.png",B.bQ,30,30),A.mv("assets/x_logo.png",B.bQ,30,30))},
 M5:function M5(a,b,c,d,e,f){var _=this
 _.a=a
 _.b=b
@@ -58603,7 +58603,7 @@ A.An.prototype={
 U(a){var s,r=null,q=t.w,p=A.cA(a,r,q).w
 q=A.cA(a,r,q).w
 s=t.nA
-return new A.rR(A.aj_(A.a9p(A.a7n(r,A.a9p(new A.yc(B.bk,B.fo,B.cm,B.iG,r,B.h9,r,A.a([A.xj().a,A.eO(r,10,r),A.Cy(A.a([A.a5p("Dreams turn ",A.lt(r,r,B.i,r,r,r,r,r,"Nunito",r,r,26,r,r,B.aX,r,r,!0,r,r,r,r,r,r,r,r)),A.mv("codes_text.png",r,80,80)],s),B.fp,B.cm),A.eO(r,30,r),A.Cy(A.a([A.Rd(!1,!0,A.xj().d,r,!0,r,r,r,r,r,r,r,r,r,new A.S7(),r,r,r,r),A.eO(r,r,10),A.Rd(!1,!0,A.xj().e,r,!0,r,r,r,r,r,r,r,r,r,new A.S8(),r,r,r,r)],s),B.fp,B.cm),A.eO(r,30,r),new A.lX("https://www.tiktok.com/@codey_sa","TikTok",A.a4I(new A.iR("tik_logo.png",r,r)),r),A.eO(r,20,r),new A.lX("https://www.instagram.com/codey_sa","Instagram",A.a4I(new A.iR("assets/insta_logo.png",r,r)),r),A.eO(r,20,r),new A.lX("https://x.com/codey_ksa","X",A.a4I(new A.iR("x_logo.png",r,r)),r),A.eO(r,200,r),A.a5p(".\u062c\u0645\u064a\u0639 \u0627\u0644\u062d\u0642\u0648\u0642 2025\u0645\xa9 \u0645\u062d\u0641\u0648\u0638\u0629",A.lt(r,r,B.i,r,r,r,r,r,"Nunito",r,r,12,r,r,B.aX,r,r,!0,r,r,r,r,r,r,r,r)),A.Cy(A.a([A.xj().b,A.xj().c],s),B.fp,B.cm),A.eO(r,50,r)],s),r)),new A.O(4290173361),r,p.a.b,r,r,q.a.a)),!0),r)}}
+return new A.rR(A.aj_(A.a9p(A.a7n(r,A.a9p(new A.yc(B.bk,B.fo,B.cm,B.iG,r,B.h9,r,A.a([A.xj().a,A.eO(r,10,r),A.Cy(A.a([A.a5p("Dreams turn ",A.lt(r,r,B.i,r,r,r,r,r,"Nunito",r,r,26,r,r,B.aX,r,r,!0,r,r,r,r,r,r,r,r)),A.mv("codes_text.png",r,80,80)],s),B.fp,B.cm),A.eO(r,30,r),A.Cy(A.a([A.Rd(!1,!0,A.xj().d,r,!0,r,r,r,r,r,r,r,r,r,new A.S7(),r,r,r,r),A.eO(r,r,10),A.Rd(!1,!0,A.xj().e,r,!0,r,r,r,r,r,r,r,r,r,new A.S8(),r,r,r,r)],s),B.fp,B.cm),A.eO(r,30,r),new A.lX("https://www.tiktok.com/@codey_sa","TikTok",A.a4I(new A.iR("assets/tik_logo.png",r,r)),r),A.eO(r,20,r),new A.lX("https://www.instagram.com/codey_sa","Instagram",A.a4I(new A.iR("assets/insta_logo.png",r,r)),r),A.eO(r,20,r),new A.lX("https://x.com/codey_ksa","X",A.a4I(new A.iR("assets/x_logo.png",r,r)),r),A.eO(r,200,r),A.a5p(".\u062c\u0645\u064a\u0639 \u0627\u0644\u062d\u0642\u0648\u0642 2025\u0645\xa9 \u0645\u062d\u0641\u0648\u0638\u0629",A.lt(r,r,B.i,r,r,r,r,r,"Nunito",r,r,12,r,r,B.aX,r,r,!0,r,r,r,r,r,r,r,r)),A.Cy(A.a([A.xj().b,A.xj().c],s),B.fp,B.cm),A.eO(r,50,r)],s),r)),new A.O(4290173361),r,p.a.b,r,r,q.a.a)),!0),r)}}
 A.S7.prototype={
 $0(){var s=0,r=A.W(t.H),q
 var $async$$0=A.X(function(a,b){if(a===1)return A.T(b,r)
